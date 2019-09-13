@@ -14,3 +14,4 @@
     - geerlingguy.ansible
     - geerlingguy.docker
     - geerlingguy.pip
+    - geerlingguy.nodejs

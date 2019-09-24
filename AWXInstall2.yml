@@ -8,7 +8,7 @@
     pip_install_packages:
       - name: docker-compose
       - name: docker
-    awx_run_install_playbook: yes
+    awx_run_install_playbook: true
 
   pre_tasks:
     - name: Update apt cache
